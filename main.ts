@@ -4,7 +4,7 @@ import chalk from "chalk";
 import inquirer from "inquirer";
 let todos = []
 
-console.log(chalk.yellow.bold("\n\t Wellcome to my dream-todos application\n"));
+console.log(chalk.yellow.bold("\n\t Wellcome to my dream-to_dos application\n"));
 
 let condition = true;
 while(condition)
